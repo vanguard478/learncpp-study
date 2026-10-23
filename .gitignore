@@ -1,0 +1,4 @@
+# Downloaded site content stays local (it's learncpp.com's copyrighted material).
+/mirror/
+/offline/
+__pycache__/
